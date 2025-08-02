@@ -1,1 +1,103 @@
-# echosmp-mods
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>EchoSMP - Allowed Mods</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #0f0f0f;
+      color: #e0e0e0;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      font-size: 20px;
+      line-height: 1.8;
+    }
+    h1 {
+      color: #66ccff;
+      text-align: center;
+      font-size: 36px;
+    }
+    h2 {
+      color: #44b0ff;
+      margin-top: 2rem;
+      border-bottom: 1px solid #444;
+      padding-bottom: 0.3rem;
+      font-size: 28px;
+    }
+    ul {
+      list-style-type: square;
+      margin-left: 1.5rem;
+      font-size: 20px;
+    }
+    .note {
+      font-size: 18px;
+      color: #999;
+      margin-top: 2rem;
+      border-top: 1px solid #333;
+      padding-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>EchoSMP – Allowed Client Mods</h1>
+
+  <h2>Performance & FPS</h2>
+  <ul>
+    <li>Sodium</li>
+    <li>Lithium</li>
+    <li>Phosphor</li>
+    <li>EntityCulling</li>
+    <li>LazyDFU</li>
+    <li>Iris Shaders</li>
+    <li>Dynamic FPS</li>
+    <li>FerriteCore</li>
+    <li>ImmediatelyFast</li>
+    <li>Sodium Extra</li>
+    <li>ModernFix</li>
+  </ul>
+
+  <h2>Comfort & Information</h2>
+  <ul>
+    <li>Mod Menu</li>
+    <li>MiniHUD <span class="note">(for FPS/coords only)</span></li>
+    <li>Xaero’s Minimap <span class="note">(Fair-Play version)</span></li>
+    <li>Xaero’s World Map</li>
+    <li>Shulker Box Tooltip</li>
+    <li>Mouse Tweaks</li>
+    <li>Inventory Profiles Next</li>
+  </ul>
+
+  <h2>Gameplay Extensions (Fair)</h2>
+  <ul>
+    <li>Simple Voice Chat</li>
+    <li>Freecam <span class="note">(for cinematics only)</span></li>
+    <li>ChatCalc</li>
+    <li>Command Macros</li>
+    <li>NameTag</li>
+    <li>Skin Layers 3D</li>
+    <li>Skin Shuffle</li>
+    <li>Zoomify</li>
+    <li>AppleSkin</li>
+    <li>Reese's Sodium Options</li>
+  </ul>
+
+  <h2>PvP Mods (Visual/Stats Only)</h2>
+  <ul>
+    <li>Crosshair Indicator</li>
+    <li>Potion Counter</li>
+    <li>Better HurtCam</li>
+    <li>Ukus Armor HUD</li>
+    <li>Totem Counter</li>
+    <li>Detail Armor Bar</li>
+    <li>Shield Status</li>
+  </ul>
+
+  <div class="note">
+    ❗ Mods or clients that give unfair advantages (e.g. X-Ray, KillAura, Radar) are <strong>strictly forbidden</strong> on EchoSMP.
+  </div>
+
+</body>
+</html>
